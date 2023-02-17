@@ -1,0 +1,19 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+h2,h3{
+    color:skyblue
+}
+.lightblue{
+    background-color:gray;
+    color:aquamarine
+}
+
+
+li:nth-child(odd){
+    background: cadetblue;
+}
+li:nth-child(even){
+    background-color: aquamarine;
+}
